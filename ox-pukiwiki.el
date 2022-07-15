@@ -75,7 +75,7 @@
     (radio-target . org-pukiwiki-identity)
     (section . org-pukiwiki-identity)
     (special-block . org-pukiwiki-identity)
-    (src-block . org-pukiwiki-identity)
+    (src-block . org-pukiwiki-example-block)
     (statistics-cookie . org-pukiwiki-identity)
     (strike-through . org-pukiwiki-strike-through)
     (subscript . org-pukiwiki-identity)
